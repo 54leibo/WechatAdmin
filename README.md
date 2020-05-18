@@ -1,24 +1,7 @@
-# wechat_admin
+# WeiXinAdmin
+Imitate WeChat public number background management system
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# feature
+- customs menus setting
+- article editor（include Emoji insert）
+- user management（include tag feature）
